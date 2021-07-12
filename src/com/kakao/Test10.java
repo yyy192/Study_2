@@ -40,6 +40,9 @@ public class Test10 {
 		System.out.println("INPUT : "+input);
 		System.out.println("RESULT : "+result);
 		
+		//GitHub use
+		//code add
+		
 	}
 
 }
