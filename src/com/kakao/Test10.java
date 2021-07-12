@@ -35,6 +35,7 @@ public class Test10 {
 		System.out.println("숫자를 입력하세요");
 		input = sc.nextInt(); //숫자 입력받기를 기다리는 상태
 		//4와 관련된 방법
+		//6과 관련된 방법 한 번 생각해보기
 		result = input/4*10+input%4;
 		
 		System.out.println("INPUT : "+input);
